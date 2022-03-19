@@ -50,13 +50,13 @@ values
 
 insert into fazenda (endereco_fazenda, estoque_inicial, nome, ultima_colheita, empresa, grao, data_proxima_colheita) 
 values 
-('rua ABC 121', '500', 'Rancho Velho', '2022/01/01', '1', '10',' 2022/08/01'),
-('rua ABC 121', '1500', 'Rancho ', '2022/01/01', '1', '9',' 2022/08/10'),
-('rua ABC 121', '2000', 'Rancho Novo', '2022/01/01', '2', '8',' 2022/08/20'),
-('rua ABC 121', '2500', 'Rancho Medio', '2022/01/01', '2', '7',' 2022/08/15'),
-('rua ABC 121', '3000', 'Rancho Azul', '2022/01/01', '3', '6',' 2022/08/25'),
-('rua ABC 121', '3500', 'Rancho Verde', '2022/01/01', '3', '5',' 2022/08/01'),
-('rua ABC 121', '4000', 'Rancho Grande', '2022/01/01', '4', '4',' 2022/08/10'),
-('rua ABC 121', '4500', 'Rancho Pequeno', '2022/01/01', '4', '3',' 2022/08/20'),
-('rua ABC 121', '5000', 'Rancho Alto', '2022/01/01', '5', '2',' 2022/08/15'),
-('rua ABC 121', '5500', 'Rancho Baixo', '2022/01/01', '5', '1',' 2022/08/25');
+('rua ABC 121', '500', 'Rancho Velho', '2022/01/01', '1', '10'),
+('rua ABC 121', '1500', 'Rancho ', '2022/01/01', '1', '9'),
+('rua ABC 121', '2000', 'Rancho Novo', '2022/01/01', '2', '8'),
+('rua ABC 121', '2500', 'Rancho Medio', '2022/01/01', '2', '7'),
+('rua ABC 121', '3000', 'Rancho Azul', '2022/01/01', '3', '6'),
+('rua ABC 121', '3500', 'Rancho Verde', '2022/01/01', '3', '5'),
+('rua ABC 121', '4000', 'Rancho Grande', '2022/01/01', '4', '4'),
+('rua ABC 121', '4500', 'Rancho Pequeno', '2022/01/01', '4', '3'),
+('rua ABC 121', '5000', 'Rancho Alto', '2022/01/01', '5', '2'),
+('rua ABC 121', '5500', 'Rancho Baixo', '2022/01/01', '5', '1');
