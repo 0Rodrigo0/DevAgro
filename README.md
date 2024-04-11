@@ -1,7 +1,6 @@
 # DevAgro
 
 Contatos:
-WhatsApp: 51 984065069.
 
 E-mail: rodrigobl1@yahoo.com.br.
 
